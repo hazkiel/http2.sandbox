@@ -1,0 +1,12 @@
+{
+  "name": "http2.sandbox",
+  "version": "0.0.1",
+  "description": "A basic HTTP/2 client server test",
+  "main": "http2server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "http2": "^3.3.6"
+  }
+}
